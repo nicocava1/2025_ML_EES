@@ -1,7 +1,7 @@
 After downloading the dataset from Google Drive, the paths to the data folders must be updated according to the user’s local directory structure.
 Users may either:
 
-1. run the training script Train_VALIDATION_LOSS.py to train the U-Net model from scratch and     generate new weights, or
+1. run the training script Train_VALIDATION_LOSS.py to train the U-Net model from scratch and generate new weights, or
 
 2. download the pre-trained model best_model_valLoss.pth from Google Drive and directly execute Test_MASK.py, ensuring that both the data paths and the model path are correctly adjusted.
 
